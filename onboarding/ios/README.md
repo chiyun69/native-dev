@@ -13,3 +13,7 @@ Welcome to native iOS development with Swift and SwiftUI.
 - [08-qa-testing.md](08-qa-testing.md)
 
 This documentation will guide you through everything you need to start developing native iOS apps in our organization.
+
+Pending:
+- Main App environment variables
+- Module environment variables
