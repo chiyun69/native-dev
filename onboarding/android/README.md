@@ -13,3 +13,7 @@ Welcome to native Android development with Kotlin and Jetpack Compose.
 - [08-qa-testing.md](08-qa-testing.md)
 
 This documentation will guide you through everything you need to start developing native Android apps in our organization.
+
+Pending:
+- Main App environment variables
+- Module environment variables
